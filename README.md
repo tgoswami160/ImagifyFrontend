@@ -36,7 +36,7 @@ frontend/
 
 ## ⚙️ Installation
 ```bash
-git clone <[repo-url](https://github.com/tgoswami160/ImagifyFrontend.git)>
+git clone https://github.com/tgoswami160/ImagifyFrontend.git
 npm install
 npm run dev
 ```
