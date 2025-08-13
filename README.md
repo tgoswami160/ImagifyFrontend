@@ -53,5 +53,3 @@ Body: { prompt: "Your image description here" }
 
 ---
 
-## 📜 License
-MIT License
